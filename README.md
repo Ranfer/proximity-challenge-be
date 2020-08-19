@@ -1,7 +1,10 @@
-# npm install
+# Dependency
+npm install
 
-# apis
+# RUN
+npm run start
 
+# Instructions: 
 # GET
 localhost:3005/api/start
 starts mongodb
